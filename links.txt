@@ -1,0 +1,15 @@
+Conditional
+tent vs car vs rv camping
+primitive vs campground 
+Access to campfire
+ammentities: water, showers, restrooms, mobile service
+
+
+Raster Based
+light pollution / stargazing - DONE
+water accessibility: https://hub.arcgis.com/datasets/waterboards::california-drinking-water-system-area-boundaries/explore?location=41.807715%2C-120.591511%2C5.18
+proximity from hiking trails - DONE
+near river: https://hub.arcgis.com/datasets/de8d118c32da4a22a091848458e761fd_0/explore
+mobile service (choose one provider): https://www.cpuc.ca.gov/industries-and-topics/internet-and-phone/broadband-mapping-program/cpuc-annual-collected-broadband-data
+
+
