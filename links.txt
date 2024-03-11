@@ -1,1 +1,2 @@
 https://hub.arcgis.com/datasets/de8d118c32da4a22a091848458e761fd_0/explore
+ https://www.parks.ca.gov/?page_id=29682 (Parking, Park Boundaries, Buildings, Campgrounds)
