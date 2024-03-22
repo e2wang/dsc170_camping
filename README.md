@@ -23,7 +23,7 @@ processing tasks.
 environment.
 
 ## Usage
-Ensure that OpenAI and the above modules are installed. Initialize OpenAI client with your own API key from `keys.json` and ArcGIS login information from `login.json`. To run the code, use the Jupyter notebook `DSC170_FinalProject_Final.ipynb` which contains Data Cleaning, Analysis, and implementation of OpenAI to find campsites.
+Ensure that OpenAI and the above modules are installed. Initialize OpenAI client with your own API key from `keys.json` and ArcGIS login information from `login.json`. To run the code, use the Jupyter notebook `DSC170_Final.ipynb` which contains Data Cleaning, Analysis, and implementation of OpenAI to find campsites.
 
 ## Links
 View our project on [ArcGIS Online](https://ucsdonline.maps.arcgis.com/home/group.html?id=624eafed02604b9cb4478af646ab941a#overview)
