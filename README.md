@@ -15,7 +15,7 @@ based on specific criteria, we can enhance the camping experience, promote
 responsible land use, and potentially contribute to the conservation of natural areas.
 
 ## Libraries and Modules
-- **ArcGis**: For automating ArcGIS operations such as spatial joins and attribute
+- **ArcGIS**: For automating ArcGIS operations such as spatial joins and attribute
 queries.
 - **OpenAI's Python library**: To interface with the OpenAI API for natural language
 processing tasks.
